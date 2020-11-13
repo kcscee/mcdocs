@@ -16,9 +16,9 @@ nav:
     - Data privacy: data-privacy.md
     - Insiders: insiders.md
     - License: license.md
-  - Setup:
-    - Changing the colors: setup/changing-the-colors.md
-    - Changing the fonts: setup/changing-the-fonts.md
+  - 模板管理:
+    - 模板配置说明: 模板管理/模板配置说明.md
+    - 多品牌竞价公告标签: 模板管理/模板标签.md
     - Changing the language: setup/changing-the-language.md
     - Changing the logo and icons: setup/changing-the-logo-and-icons.md
     - Setting up navigation: setup/setting-up-navigation.md

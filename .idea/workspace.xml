@@ -1,6 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0825daf-37f0-4736-9392-795c7d9c7159" name="Default Changelist" comment="1.0" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kC9I9BvX4E4Uvz2rqX05rq4BxE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0825daf-37f0-4736-9392-795c7d9c7159" name="Default Changelist" comment="" />
+      <created>1605193623890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605193623890</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1605193760455</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605193760455</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1.0">
+      <created>1605251034174</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605251034174</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1.0">
+      <created>1605251233984</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605251233984</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="467" y="102" key="FileChooserDialogImpl" timestamp="1605193735059">
+      <screen x="93" y="0" width="1187" height="720" />
+    </state>
+    <state x="467" y="102" key="FileChooserDialogImpl/93.0.1187.720@93.0.1187.720" timestamp="1605193735059" />
+    <state x="560" y="258" key="Github.ShareDialog" timestamp="1605193681375">
+      <screen x="93" y="0" width="1187" height="720" />
+    </state>
+    <state x="560" y="258" key="Github.ShareDialog/93.0.1187.720@93.0.1187.720" timestamp="1605193681375" />
   </component>
 </project>
