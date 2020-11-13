@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0825daf-37f0-4736-9392-795c7d9c7159" name="Default Changelist" comment="1.1" />
+    <list default="true" id="e0825daf-37f0-4736-9392-795c7d9c7159" name="Default Changelist" comment="1.1">
+      <change beforePath="$PROJECT_DIR$/docs/模板管理/模板配置说明.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/模板管理/模板配置说明.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605268023711</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="1.1">
+      <created>1605270779933</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605270779933</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
