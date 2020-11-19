@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# 电子卖场功能介绍及配置文档
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+`For full do`cumentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
 
